@@ -42,12 +42,6 @@ Windows • Ubuntu (Linux)
 
 ---
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Nishanth-Chirala&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishanth-Chirala&layout=compact)
-
----
 
 ## 📫 Connect With Me
 
